@@ -1,4 +1,7 @@
-# Kryptonic
+<h1 align=center>
+ <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/KRYPTONIC.png" />
+</h1>
+
 A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it.
 
 ## ℹ️ Project information
