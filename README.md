@@ -10,7 +10,8 @@ A digital cryptocurrency investment app which will help you decide in which coin
 <h2 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
 </h2>
-This project was fully developed on the Azure platform<br>
+This project was fully developed on the Azure platform
+
 
 - WebApp module of Azure to host the website(webapp) which is available at **http://mlh-jaipur.azurewebsites.net/**
 - Virtual Machine to keep our ML Model running on the cloud
