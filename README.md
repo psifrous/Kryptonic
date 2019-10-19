@@ -14,11 +14,12 @@ A digital cryptocurrency investment app which will help you decide in which coin
 
 ## Project Synposis - Kryptonic
 
-Ever had a thought of investing money? 
+Ever had a thought of investing money in a smart way?<br>
+Sshhh🤫! We have a solution!
 
 **Current Opportunity 🚀**
-There has not been a major disruption in the insurance industry since decades and has been a major money hauling industry, hence to bring disruption Zapsure will help the citizens to be connected to a common source to claim their car insurance.
-
+There are numerous ways to invest in a stock market;But! Don't you think it's differs from region to region and it's quite saturated?<br>
+So we came up with **Kryptonic** a unique webApp that lets you compare different cryptocurrencies and suggests a personalised cryptocurrency for a given amount of time, based upon a Machine learning model... and all of it happens real-time!
 **Future Opportunity ⏲️**
 As technology moves ahead, so will we Zapsure will be soon including Health Insurance where in users could give in their XRAY scans, LAB reports etc. and that will assess the health claim in according to the database given by the respective hospital.
 
