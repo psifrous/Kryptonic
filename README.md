@@ -1,5 +1,5 @@
 <h1 align=center>
- <img align=left width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/KRYPTONIC.png" />
+ <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/KRYPTONIC.png" />
 </h1>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
