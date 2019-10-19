@@ -10,7 +10,7 @@ A digital cryptocurrency investment app which will help you decide in which coin
 - **Project Name**: Kryptonic
 - **Short Project Description**: _A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it._
 - **Team Name**:Pandas 🐼
-- **Team Members**: _Naman Bansal @psifrous, Swapnil Panwala @panwalas_
+- **Team Members**: _Naman Bansal @psifrous, Swapnil Panwala @panwalas_, Aniket Chowdhury @aniket-chow, Sahil Khandelwal @sahilinjaipur
 - **Repository Link**: https://github.com/psifrous/Kryptonic
 - **Labels**: cryptocurrency, blockchain, influence the masses,webapp, ML, Microsoft, Azure, Facebook, Machine Learning, MLH
 
