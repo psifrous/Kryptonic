@@ -2,6 +2,8 @@
  <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/KRYPTONIC.png" />
 </h1>
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)]
+
 A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it.
 
 ## ℹ️ Project information
