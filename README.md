@@ -30,7 +30,7 @@ A digital cryptocurrency investment webApp which will help you decide in which c
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
 </h3>
-This project was fully developed on the Azure platform
+This project was developed on the Azure platform
 
 
 - WebApp module of Azure to host the website(webapp) which is available at **http://mlh-jaipur.azurewebsites.net/**
@@ -41,7 +41,7 @@ This project was fully developed on the Azure platform
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/prophet.png" />
 </h3>
-<p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm. Prophet tries to capture the seasonality in the past data and works well when the dataset is large.</p>
+<p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm. Prophet tries to capture the seasonality in the past data and works well when the dataset is large.<br>Please refer: https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/ </p>
 
 ## Project Synposis ⚛️
 
