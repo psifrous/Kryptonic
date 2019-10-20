@@ -16,7 +16,9 @@ A digital cryptocurrency investment webApp which will help you decide in which c
 - **Team Members**: _Naman Bansal [@psifrous](https://github.com/psifrous), Swapnil Panwala [@panwalas](https://github.com/panwalas), Aniket Chowdhury [@aniket-chow](https://github.com/aniket-chow), Sahil Khandelwal [@sahilinjaipur](https://github.com/sahilinjaipur)_
 - **Repository Link**: https://github.com/psifrous/Kryptonic
 - **Labels**: Microsoft, Azure, Facebook, Machine Learning, MLH, cryptocurrency,cryptocompare, blockchain, influence the masses,webapp, Time series
-
+<h1 align=center><a href = "http://mlh-jaipur.azurewebsites.net/">
+ <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/button.png" /></a>
+</h1>
 ## Platforms used 📦
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
