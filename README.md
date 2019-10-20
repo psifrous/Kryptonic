@@ -45,7 +45,7 @@ Ever had a thought of investing money in a smart way?<br>
 Sshhh🤫! We have a solution!
 
 ***Current Opportunity 🚀***<br>
-There are numerous ways to invest in a stock market... But! Don't you think it's differs from region to region and the maket is quite saturated and common?<br>
+There are numerous ways to invest in a stock market... But! Don't you think it's differs from region to region and the market is quite saturated and common?<br>
 So we came up with **Kryptonic** a unique webApp that lets you compare different cryptocurrencies and suggests a personalised cryptocurrency for a given amount of time, based upon a Machine learning model... and all of it happens real-time!</n><br>
 
 ## Contributors ✨
