@@ -7,7 +7,7 @@
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)]
 
 <p align="center">
-A digital cryptocurrency investment webApp which will help you decide in which coin to invest based on its history and trends, using machine learning on it.</p>
+A digital cryptocurrency investment webApp which will help you decide in which coin to invest based on its history and trends, using machine learning on it. When the user enters the coin he wants to invest in and the time for which he/she wants to invest, we train a personalized Prophet model on our Microsoft Azure machine and predict net profit in the form of Kryptos!!!<br> Everthing happens realtime in just a matter of some seconds!!!⏱️ </p>
 
 ## Project information ℹ️
 - **Project Name**: Kryptonic
