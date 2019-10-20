@@ -9,7 +9,7 @@
 <p align="center">
 A digital cryptocurrency investment webApp which will help you decide in which coin to invest based on its history and trends, using machine learning on it.</p>
 
-## Introduction 📖
+## Development platforms used 📖
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
 </h3>
