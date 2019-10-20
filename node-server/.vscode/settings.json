@@ -1,0 +1,8 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e3763996-d606-4ab7-8fc4-f9e7a11f5155/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/mlh-jaipur",
+    "appService.deploySubpath": "",
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ]
+}
