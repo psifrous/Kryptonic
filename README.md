@@ -6,15 +6,20 @@
 
 A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it.
 
-## Intro
-<h2 align=center>
+## Introduction
+<h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
-</h2>
+</h3>
 This project was fully developed on the Azure platform
 
 
 - WebApp module of Azure to host the website(webapp) which is available at **http://mlh-jaipur.azurewebsites.net/**
-- Virtual Machine to keep our ML Model running on the cloud
+- Virtual Machine to keep our ML Model running on the cloud.
+
+<h3 align=center>
+ <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/prophet.png" />
+</h3>
+<p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm.</p>
 
 ## ℹ️ Project information
 - **Project Name**: Kryptonic
