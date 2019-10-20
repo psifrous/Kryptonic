@@ -25,6 +25,7 @@ A digital cryptocurrency investment webApp which will help you decide in which c
 <h1 align=center><a href = "http://mlh-jaipur.azurewebsites.net/">
  <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/click.png" /></a>
 </h1>
+<b> Link to the code: https://bit.ly/2Myg4su </b>
 
 ## Platforms used 📦
 <h3 align=center>
