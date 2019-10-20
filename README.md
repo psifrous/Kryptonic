@@ -5,7 +5,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)] 
 [![GitHub contributors](https://img.shields.io/github/contributors/psifrous/Kryptonic)]
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)]
-
+## Overview
 <p align="center">
  <li>
 A digital cryptocurrency investment webApp which will help you decide in which coin to invest based on its history and trends, using machine learning on it.</li>
@@ -19,7 +19,9 @@ A digital cryptocurrency investment webApp which will help you decide in which c
 - **Team Name**:Pandas 🐼
 - **Team Members**: _Naman Bansal [@psifrous](https://github.com/psifrous), Swapnil Panwala [@panwalas](https://github.com/panwalas), Aniket Chowdhury [@aniket-chow](https://github.com/aniket-chow), Sahil Khandelwal [@sahilinjaipur](https://github.com/sahilinjaipur)_
 - **Repository Link**: https://github.com/psifrous/Kryptonic
-- **Labels**: Microsoft, Azure, Facebook, Machine Learning, MLH, cryptocurrency,cryptocompare, blockchain, influence the masses,webapp, Time series
+- **Labels**: Microsoft, Azure, Facebook, Machine Learning, MLH, cryptocurrency,cryptocompare, blockchain, influence the masses,webapp, Time series<br>
+<h3 align="center">
+<img align ="center" src="https://github.com/psifrous/Kryptonic/blob/master/images/GIF-2019-10-20-14-27-59.gif"  height="300" /></h3>
 <h1 align=center><a href = "http://mlh-jaipur.azurewebsites.net/">
  <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/click.png" /></a>
 </h1>
