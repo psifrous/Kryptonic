@@ -32,7 +32,9 @@ This project was fully developed on the Azure platform
 
 
 - WebApp module of Azure to host the website(webapp) which is available at **http://mlh-jaipur.azurewebsites.net/**
-- Virtual Machine to keep our ML Model running on the cloud.
+- Virtual Machine to keep our ML Model running on the cloud using Flask at 13.90.227.9
+- The FrontEnd was built using Facebook's ReactJS
+- The is on Azure is being done by Node's Express Server
 
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/prophet.png" />
@@ -47,6 +49,9 @@ Sshhh🤫! We have a solution!
 ***Current Opportunity 🚀***<br>
 There are numerous ways to invest in a stock market... But! Don't you think it's differs from region to region and the market is quite saturated and common?<br>
 So we came up with **Kryptonic** a unique webApp that lets you compare different cryptocurrencies and suggests a personalised cryptocurrency for a given amount of time, based upon a Machine learning model... and all of it happens real-time!</n><br>
+
+## Local Deployment
+The project can be locally deployed using `nodemon index.js` in node-server folder after installing the required dependencies.
 
 ## Contributors ✨
 
