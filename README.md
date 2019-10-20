@@ -22,7 +22,7 @@ This project was fully developed on the Azure platform
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/prophet.png" />
 </h3>
-<p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm.Prophet tries to capture the seasonality in the past data and works well when the dataset is large.</p>
+<p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm. Prophet tries to capture the seasonality in the past data and works well when the dataset is large.</p>
 
 ## ℹ️ Project information
 - **Project Name**: Kryptonic
