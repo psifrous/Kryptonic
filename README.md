@@ -44,6 +44,12 @@ This project was developed on the Azure platform
 </h3>
 <p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm. Prophet tries to capture the seasonality in the past data and works well when the dataset is large.<br>Please refer: https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/ </p>
 
+Below We have implemented our predict function using prophet for ETH (Etherium) to invest for the next days and in the graph you can see with the red color in the end that it has predicted the next 10 values for the next 10 days.<br>
+Graph : Actual (blue - y) vs Predicted ( red - yhat)<br>
+<h3 align=center>
+ <img align=center width="50%" src="https://github.com/psifrous/Kryptonic/blob/master/images/graph.PNG" />
+</h3>
+
 ## Project Synposis ⚛️
 
 Ever had a thought of investing money in a smart way?<br>
