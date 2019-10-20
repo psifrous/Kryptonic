@@ -3,8 +3,8 @@
 </h1>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)] 
-(![GitHub contributors](https://img.shields.io/github/contributors/psifrous/Kryptonic)]
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)
+[![GitHub contributors](https://img.shields.io/github/contributors/psifrous/Kryptonic)]
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)]
 
 
 A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it.
