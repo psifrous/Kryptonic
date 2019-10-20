@@ -42,7 +42,7 @@ There are numerous ways to invest in a stock market... But! Don't you think it's
 So we came up with **Kryptonic** a unique webApp that lets you compare different cryptocurrencies and suggests a personalised cryptocurrency for a given amount of time, based upon a Machine learning model... and all of it happens real-time!</n><br>
 
 ## Contributors
-|[<img src="https://avatars2.githubusercontent.com/u/36012704?s=460&v=4" width="100px;"/><br /><sub><b>Naman Bansal</b></sub>](https://github.com/psifrous)|[<img src="https://avatars2.githubusercontent.com/u/39371808?s=460&v=4" width="100px;"/><br /><sub><b>Swapnil Panwala</b></sub>](https://github.com/panwalas)|[<img src="https://avatars3.githubusercontent.com/u/24915107?s=400&v=4" width="100px;"/><br /><sub><b>Aniket Chowdhury</b></sub>](https://github.com/aniket-chowdhury)|[<img src="https://avatars0.githubusercontent.com/u/44058530?s=460&v=4" width="100px;"/><br /><sub><b>Sahil Khandelwal</b></sub>](https://github.com/sahilinjaipur)|
+
 <table>
   <tr>
     <td align="center"><a href="https://github.com/psifrous"><img src="https://avatars2.githubusercontent.com/u/36012704?s=460&v=4" width="100px;" alt="Naman Bansal"/><br /><sub><b>Naman Bansal</b></sub></a><br />
