@@ -6,8 +6,8 @@
 (![GitHub contributors](https://img.shields.io/github/contributors/psifrous/Kryptonic)]
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)
 
-
-A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it.
+<p align="center">
+A digital cryptocurrency investment webApp which will help you decide in which coin to invest based on its history and trends, using machine learning on it.</p>
 
 ## Introduction
 <h3 align=center>
