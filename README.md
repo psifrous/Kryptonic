@@ -1,4 +1,4 @@
-<h1 align=center><a href = "http://mlh-jaipur.azurewebsites.net/>
+<h1 align=center><a href = "http://mlh-jaipur.azurewebsites.net/">
  <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/KRYPTONIC.png" /></a>
 </h1>
 
