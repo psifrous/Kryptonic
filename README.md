@@ -19,7 +19,7 @@ A digital cryptocurrency investment webApp which will help you decide in which c
 <h1 align=center><a href = "http://mlh-jaipur.azurewebsites.net/">
  <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/button.png" /></a>
 </h1>
-### Platforms used 📦
+## Platforms used 📦
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
 </h3>
