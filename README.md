@@ -2,7 +2,8 @@
  <img align=center width="25%" src="https://github.com/psifrous/Kryptonic/blob/master/images/KRYPTONIC.png" />
 </h1>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)] [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)] 
+(![GitHub contributors](https://img.shields.io/github/contributors/psifrous/Kryptonic)]
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)
 
 
