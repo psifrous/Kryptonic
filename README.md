@@ -9,7 +9,15 @@
 <p align="center">
 A digital cryptocurrency investment webApp which will help you decide in which coin to invest based on its history and trends, using machine learning on it.</p>
 
-## Development platforms used 📖
+## Project information ℹ️
+- **Project Name**: Kryptonic
+- **Short Project Description**: _A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it._
+- **Team Name**:Pandas 🐼
+- **Team Members**: _Naman Bansal [@psifrous](https://github.com/psifrous), Swapnil Panwala [@panwalas](https://github.com/panwalas), Aniket Chowdhury [@aniket-chow](https://github.com/aniket-chow), Sahil Khandelwal [@sahilinjaipur](https://github.com/sahilinjaipur)_
+- **Repository Link**: https://github.com/psifrous/Kryptonic
+- **Labels**: Microsoft, Azure, Facebook, Machine Learning, MLH, cryptocurrency,cryptocompare, blockchain, influence the masses,webapp, Time series
+
+## Platforms used 📦
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
 </h3>
@@ -23,14 +31,6 @@ This project was fully developed on the Azure platform
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/prophet.png" />
 </h3>
 <p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm.Prophet tries to capture the seasonality in the past data and works well when the dataset is large.</p>
-
-## Project information ℹ️
-- **Project Name**: Kryptonic
-- **Short Project Description**: _A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it._
-- **Team Name**:Pandas 🐼
-- **Team Members**: _Naman Bansal [@psifrous](https://github.com/psifrous), Swapnil Panwala [@panwalas](https://github.com/panwalas), Aniket Chowdhury [@aniket-chow](https://github.com/aniket-chow), Sahil Khandelwal [@sahilinjaipur](https://github.com/sahilinjaipur)_
-- **Repository Link**: https://github.com/psifrous/Kryptonic
-- **Labels**: Microsoft, Azure, Facebook, Machine Learning, MLH, cryptocurrency,cryptocompare, blockchain, influence the masses,webapp, Time series
 
 ## Project Synposis ⚛️
 
