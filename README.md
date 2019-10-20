@@ -3,13 +3,13 @@
 </h1>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)] 
-[![GitHub contributors](https://img.shields.io/github/contributors/psifrous/Kryptonic)]
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)]
+(![GitHub contributors](https://img.shields.io/github/contributors/psifrous/Kryptonic)]
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/psifrous/Kryptonic)
 
 <p align="center">
 A digital cryptocurrency investment webApp which will help you decide in which coin to invest based on its history and trends, using machine learning on it.</p>
 
-## Introduction
+## Introduction 📖
 <h3 align=center>
  <img align=center width="20%" src="https://github.com/psifrous/Kryptonic/blob/master/images/azure.png" />
 </h3>
@@ -24,7 +24,7 @@ This project was fully developed on the Azure platform
 </h3>
 <p align=center> Our ML algorithm is based upon Facebook's Prophet algorithm.Prophet tries to capture the seasonality in the past data and works well when the dataset is large.</p>
 
-## ℹ️ Project information
+## Project information ℹ️
 - **Project Name**: Kryptonic
 - **Short Project Description**: _A digital cryptocurrency investment app which will help you decide in which coin to invest based on its history and trends, using machine learning on it._
 - **Team Name**:Pandas 🐼
@@ -32,7 +32,7 @@ This project was fully developed on the Azure platform
 - **Repository Link**: https://github.com/psifrous/Kryptonic
 - **Labels**: Microsoft, Azure, Facebook, Machine Learning, MLH, cryptocurrency,cryptocompare, blockchain, influence the masses,webapp, Time series
 
-## Project Synposis - Kryptonic
+## Project Synposis ⚛️
 
 Ever had a thought of investing money in a smart way?<br>
 Sshhh🤫! We have a solution!
