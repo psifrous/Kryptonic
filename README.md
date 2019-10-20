@@ -34,9 +34,9 @@ This project was fully developed on the Azure platform
 Ever had a thought of investing money in a smart way?<br>
 Sshhh🤫! We have a solution!
 
-**Current Opportunity 🚀**
+**Current Opportunity 🚀**<br>
 There are numerous ways to invest in a stock market;But! Don't you think it's differs from region to region and it's quite saturated?<br>
-So we came up with **Kryptonic** a unique webApp that lets you compare different cryptocurrencies and suggests a personalised cryptocurrency for a given amount of time, based upon a Machine learning model... and all of it happens real-time!</n>
+So we came up with **Kryptonic** a unique webApp that lets you compare different cryptocurrencies and suggests a personalised cryptocurrency for a given amount of time, based upon a Machine learning model... and all of it happens real-time!</n><br>
 
 
 🔥This project was made for lnmhacks hackathon held at LNMIIT, Jaipur.
